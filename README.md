@@ -9,6 +9,7 @@
     - C
     - Java
     - Rust
+    - Go
     - Ruby
     - Python
     - Perl
