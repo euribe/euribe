@@ -1,8 +1,8 @@
 # Roberto Efraín Uribe Capulín
-## Sysadmin [Universidad Tecnológica de Tecámac](www.uttecamac.edu.mx)
+## Sysadmin [Universidad Tecnológica de Tecámac](http://www.uttecamac.edu.mx)
 
 
-- 🔭 I’m currently working on ... [UTTEC](www.uttecamac.edu.mx)
+- 🔭 I’m currently working on ... [UTTEC](http://www.uttecamac.edu.mx)
 - Languages I know:
     - PHP
     - C#
