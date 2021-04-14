@@ -19,6 +19,7 @@
     - ASP.NET
     - .NET core
     - Razor
+    - Angular
     - Twig
     - RoR
     - REST
@@ -26,7 +27,7 @@
     - Semanti-UI
     - Bootstrap
 <!-- 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning OpenApi
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
