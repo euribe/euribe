@@ -24,7 +24,7 @@
     - RoR
     - REST
     - JQuery
-    - Semanti-UI
+    - Semantic-UI
     - Bootstrap
 <!-- 
 - 🌱 I’m currently learning OpenApi
