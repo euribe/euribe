@@ -1,5 +1,4 @@
 # Roberto Efraín Uribe Capulín
-## Sysadmin [Universidad Tecnológica de Tecámac](http://www.uttecamac.edu.mx)
 
 
 - 🔭 I’m currently working on ... [Devoteam](http://mx.devoteam.com)
