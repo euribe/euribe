@@ -25,6 +25,17 @@
     - JQuery
     - Semantic-UI
     - Bootstrap
+    - Kubernetes
+- As certified Google Cloud Professional Devops Engineer I also work with
+    - Google Compute Engine
+    - Google Kubernetes Engine
+    - Google Cloud SQL
+    - Google Cloud Run
+    - Google App Engine
+    - Google Cloud Functions
+    - Google Cloud Operations
+    - Google Cloud Build
+    - Google Cloud Deploy
 <!-- 
 - 🌱 I’m currently learning OpenApi
 - 👯 I’m looking to collaborate on ...
